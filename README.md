@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Mohamad</h1>
 
 <p align="center">
-  I'm a full-stack developer with a focus on building reliable backends, clean APIs, and smart, usable frontends.  
+  I'm a backend developer with a focus on building reliable backends, clean APIs, and smart, usable frontends.  
   I enjoy designing systems that work smoothly under the hood and look good on the surface.
 </p>
 
